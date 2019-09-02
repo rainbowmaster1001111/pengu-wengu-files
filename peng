@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<head>
+<title>Page Title</title>
+</head>
 <body>
+
 <h1>hello world</h1>
-<p>Penguins are amazing and dodos are dead because the penguins beat them in a battle</p>
+<p>penguins.</p>
+
 </body>
 </html>
