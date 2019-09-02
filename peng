@@ -2,9 +2,7 @@
 <html>
 <title>HTML Tutorial</title>
 <body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
+<h1>hello world</h1>
+<p>Penguins are amazing and dodos are dead because the penguins beat them in a battle</p>
 </body>
 </html>
